@@ -1,4 +1,4 @@
-# Butter for Waffle.io
+# Honey Butter for Waffle.io
 
 Butter is a Chrome Extension that enables you to create and use Issue templates in Waffle.io! Templates are the 3rd [most requested feature](https://github.com/waffleio/waffle.io/issues/2398) in Waffle.io.
 
