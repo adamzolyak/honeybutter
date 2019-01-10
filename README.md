@@ -20,6 +20,7 @@ Note: When this extension is enabled, card headers are colored yellow to remind 
 ## Examples
 
 Example of creating a new issue using a template:
+
 ![GitHub Logo](./example1.png)
 
 ## Extending
