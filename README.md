@@ -8,7 +8,19 @@ Honey Butter adds a template drop down to the Add Issue form in Waffle.io projec
 
 ## Installation
 
+1. Go to chrome://extensions/ in Chrome's search box.
+2. Enable Developer Mode in Chrome Extensions.
+3. Click Load Unpacked and select the root directory where you cloned this repo. The extension will appear in the Extensions list.
+4. Make sure the extension is enabled and refreshed.
+5. Navigate to any Waffle project (ex. https://waffle.io/waffleio/waffle.io).
+6. When selecting Add Issue, thre will be a Select Template drop down in the new issue form.
+
+Note: When this extension is enabled, card headers are colored yellow to remind you the extension is enabled.
+
 ## Examples
+
+Example of creating a new issue using a template:
+![GitHub Logo](./example1.png)
 
 ## Extending
 
